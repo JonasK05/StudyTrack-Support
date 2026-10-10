@@ -1,6 +1,5 @@
 # Uni-Tracker Support
 
+Support URL: <https://jonask05.github.io/StudyTrack-Support/web.html#support>
 
-Support URL: `https://jonask05.github.io/Uni-Tracker-support/web.html#support'
-
-Privacy Info URL: 'https://jonask05.github.io/Uni-Tracker-support/web.html#privacy'
+Privacy Info URL: <https://jonask05.github.io/StudyTrack-Support/web.html#privacy>
